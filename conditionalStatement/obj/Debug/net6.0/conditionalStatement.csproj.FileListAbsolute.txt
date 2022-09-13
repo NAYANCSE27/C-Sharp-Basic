@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\conditionalStatement\bin\Debug\net6.0\conditionalStatement.exe
+E:\C-Sharp-Basic\conditionalStatement\bin\Debug\net6.0\conditionalStatement.deps.json
+E:\C-Sharp-Basic\conditionalStatement\bin\Debug\net6.0\conditionalStatement.runtimeconfig.json
+E:\C-Sharp-Basic\conditionalStatement\bin\Debug\net6.0\conditionalStatement.dll
+E:\C-Sharp-Basic\conditionalStatement\bin\Debug\net6.0\conditionalStatement.pdb
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.AssemblyInfo.cs
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.dll
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\refint\conditionalStatement.dll
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.pdb
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\conditionalStatement.genruntimeconfig.cache
+E:\C-Sharp-Basic\conditionalStatement\obj\Debug\net6.0\ref\conditionalStatement.dll
