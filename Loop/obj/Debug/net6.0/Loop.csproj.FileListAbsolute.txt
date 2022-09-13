@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\Loop\bin\Debug\net6.0\Loop.exe
+E:\C-Sharp-Basic\Loop\bin\Debug\net6.0\Loop.deps.json
+E:\C-Sharp-Basic\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+E:\C-Sharp-Basic\Loop\bin\Debug\net6.0\Loop.dll
+E:\C-Sharp-Basic\Loop\bin\Debug\net6.0\Loop.pdb
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.dll
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\refint\Loop.dll
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.pdb
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+E:\C-Sharp-Basic\Loop\obj\Debug\net6.0\ref\Loop.dll
