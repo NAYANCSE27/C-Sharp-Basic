@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\input\bin\Debug\net6.0\input.exe
+E:\C-Sharp-Basic\input\bin\Debug\net6.0\input.deps.json
+E:\C-Sharp-Basic\input\bin\Debug\net6.0\input.runtimeconfig.json
+E:\C-Sharp-Basic\input\bin\Debug\net6.0\input.dll
+E:\C-Sharp-Basic\input\bin\Debug\net6.0\input.pdb
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.AssemblyInfo.cs
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.dll
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\refint\input.dll
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.pdb
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\input.genruntimeconfig.cache
+E:\C-Sharp-Basic\input\obj\Debug\net6.0\ref\input.dll
