@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\variables\bin\Debug\net6.0\variables.exe
+E:\C-Sharp-Basic\variables\bin\Debug\net6.0\variables.deps.json
+E:\C-Sharp-Basic\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+E:\C-Sharp-Basic\variables\bin\Debug\net6.0\variables.dll
+E:\C-Sharp-Basic\variables\bin\Debug\net6.0\variables.pdb
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.dll
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\refint\variables.dll
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.pdb
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+E:\C-Sharp-Basic\variables\obj\Debug\net6.0\ref\variables.dll
