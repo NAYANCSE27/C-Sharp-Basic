@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\simpleMethod\bin\Debug\net6.0\simpleMethod.exe
+E:\C-Sharp-Basic\simpleMethod\bin\Debug\net6.0\simpleMethod.deps.json
+E:\C-Sharp-Basic\simpleMethod\bin\Debug\net6.0\simpleMethod.runtimeconfig.json
+E:\C-Sharp-Basic\simpleMethod\bin\Debug\net6.0\simpleMethod.dll
+E:\C-Sharp-Basic\simpleMethod\bin\Debug\net6.0\simpleMethod.pdb
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.AssemblyInfo.cs
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.dll
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\refint\simpleMethod.dll
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.pdb
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\simpleMethod.genruntimeconfig.cache
+E:\C-Sharp-Basic\simpleMethod\obj\Debug\net6.0\ref\simpleMethod.dll
