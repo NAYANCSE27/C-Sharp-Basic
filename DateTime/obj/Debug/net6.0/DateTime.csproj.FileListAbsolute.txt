@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\DateTime\bin\Debug\net6.0\DateTime.exe
+E:\C-Sharp-Basic\DateTime\bin\Debug\net6.0\DateTime.deps.json
+E:\C-Sharp-Basic\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+E:\C-Sharp-Basic\DateTime\bin\Debug\net6.0\DateTime.dll
+E:\C-Sharp-Basic\DateTime\bin\Debug\net6.0\DateTime.pdb
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.dll
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.pdb
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+E:\C-Sharp-Basic\DateTime\obj\Debug\net6.0\ref\DateTime.dll
