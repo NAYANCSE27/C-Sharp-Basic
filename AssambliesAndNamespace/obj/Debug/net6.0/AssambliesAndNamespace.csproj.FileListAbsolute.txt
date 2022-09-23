@@ -1,0 +1,15 @@
+E:\C-Sharp-Basic\AssambliesAndNamespace\bin\Debug\net6.0\AssambliesAndNamespace.exe
+E:\C-Sharp-Basic\AssambliesAndNamespace\bin\Debug\net6.0\AssambliesAndNamespace.deps.json
+E:\C-Sharp-Basic\AssambliesAndNamespace\bin\Debug\net6.0\AssambliesAndNamespace.runtimeconfig.json
+E:\C-Sharp-Basic\AssambliesAndNamespace\bin\Debug\net6.0\AssambliesAndNamespace.dll
+E:\C-Sharp-Basic\AssambliesAndNamespace\bin\Debug\net6.0\AssambliesAndNamespace.pdb
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.csproj.AssemblyReference.cache
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.AssemblyInfoInputs.cache
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.AssemblyInfo.cs
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.dll
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\refint\AssambliesAndNamespace.dll
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.pdb
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\AssambliesAndNamespace.genruntimeconfig.cache
+E:\C-Sharp-Basic\AssambliesAndNamespace\obj\Debug\net6.0\ref\AssambliesAndNamespace.dll
