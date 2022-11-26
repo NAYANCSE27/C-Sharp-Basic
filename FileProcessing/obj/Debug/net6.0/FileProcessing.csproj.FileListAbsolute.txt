@@ -1,0 +1,15 @@
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\bin\Debug\net6.0\FileProcessing.exe
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\bin\Debug\net6.0\FileProcessing.deps.json
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\bin\Debug\net6.0\FileProcessing.runtimeconfig.json
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\bin\Debug\net6.0\FileProcessing.dll
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\bin\Debug\net6.0\FileProcessing.pdb
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.csproj.AssemblyReference.cache
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.GeneratedMSBuildEditorConfig.editorconfig
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.AssemblyInfoInputs.cache
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.AssemblyInfo.cs
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.csproj.CoreCompileInputs.cache
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.dll
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\refint\FileProcessing.dll
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.pdb
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\FileProcessing.genruntimeconfig.cache
+E:\isnjb27\c# project\C-Sharp-Basic\FileProcessing\obj\Debug\net6.0\ref\FileProcessing.dll
