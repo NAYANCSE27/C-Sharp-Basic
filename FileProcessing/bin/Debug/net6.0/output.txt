@@ -1,0 +1,8 @@
+The File class provides two static methods to read a text file in C#. The File.ReadAllText() method opens a text file, 
+reads all the text in the file into a string, and then closes the file.The following code snippet reads a text file in to a string.
+// Read entire text file content in one string string text = File.ReadAllText(textFile); Console.WriteLine(text);  
+The File.ReadAllLines() method opens a text file, reads all lines of the file into a string array, and then closes the file. 
+The following code snippet reads a text file into an array of strings.// Read a text file line by line.  
+string[] lines = File.ReadAllLines(textFile); foreach (string line in lines) Console.WriteLine(line);  
+One more way to read a text file is using a StreamReader class that implements a TextReader and reads characters from a byte stream 
+in a particular encoding. The ReadLine method of StreamReader reads one line at a time.
