@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FileProcessing"
   ],
+  "SelectedNode": "\\FileProcessing\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

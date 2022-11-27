@@ -13,7 +13,7 @@ foreach (string line in lines)
     Console.WriteLine(line);
 */
 
- 
+ // File output
 string texts = File.ReadAllText("E:\\isnjb27\\c# project\\C-Sharp-Basic\\FileProcessing\\input.txt");
 File.WriteAllTextAsync("output.txt", texts);
 
