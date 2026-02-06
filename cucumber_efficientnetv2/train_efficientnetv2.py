@@ -13,13 +13,12 @@ from sklearn.preprocessing import label_binarize
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Train EfficientNetV2 on cucumber dataset.")
-    parser.add_argument("--data_dir", type=str, default="/datasets", help="Path to dataset root.")
-    parser.add_argument("--output_dir", type=str, default="./outputs", help="Output directory.")
+
     parser.add_argument("--image_size", type=int, default=128, help="Image size (square).")
     parser.add_argument("--batch_size", type=int, default=16, help="Batch size.")
     parser.add_argument("--epochs", type=int, default=20, help="Number of epochs.")
     parser.add_argument("--seed", type=int, default=42, help="Random seed.")
-    return parser.parse_args()
+
 
 
 def configure_environment():
@@ -27,6 +26,7 @@ def configure_environment():
     gpus = tf.config.list_physical_devices("GPU")
     for gpu in gpus:
         tf.config.experimental.set_memory_growth(gpu, True)
+
 
 
 def discover_dataset(data_dir):
@@ -149,7 +149,7 @@ def build_model(num_classes, image_size):
 
 def get_last_conv_layer(model):
     for layer in reversed(model.layers):
-        if len(layer.output_shape) == 4:
+
             return layer.name
     raise ValueError("No 4D layer found for Grad-CAM.")
 
@@ -216,15 +216,17 @@ def evaluate_and_plot(model, test_ds, class_names, output_dir):
 
 def make_gradcam_heatmap(model, image, last_conv_layer_name, pred_index=None):
     grad_model = tf.keras.Model(
-        [model.inputs],
+
         [model.get_layer(last_conv_layer_name).output, model.output],
     )
     with tf.GradientTape() as tape:
         conv_outputs, predictions = grad_model(image)
+
         if pred_index is None:
             pred_index = tf.argmax(predictions[0])
         class_channel = predictions[:, pred_index]
     grads = tape.gradient(class_channel, conv_outputs)
+
     pooled_grads = tf.reduce_mean(grads, axis=(0, 1, 2))
     conv_outputs = conv_outputs[0]
     heatmap = conv_outputs @ pooled_grads[..., tf.newaxis]
@@ -264,6 +266,7 @@ def main():
     args = parse_args()
     os.makedirs(args.output_dir, exist_ok=True)
     configure_environment()
+
 
     mode, train_dir, val_dir, test_dir = discover_dataset(args.data_dir)
     if mode == "split":

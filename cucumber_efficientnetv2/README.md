@@ -27,9 +27,6 @@ The script auto-splits this single-folder layout into train/val/test splits.
 
 ```bash
 python train_efficientnetv2.py \
-  --data_dir /datasets \
-  --output_dir ./outputs
-```
 
 ## Outputs
 
