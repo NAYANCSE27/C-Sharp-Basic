@@ -27,15 +27,6 @@ The script auto-splits this single-folder layout into train/val/test splits.
 
 ```bash
 python train_efficientnetv2.py \
-  --data_dir /kaggle/input/cucumber-dataset/Original Image \
-  --output_dir /kaggle/working
-```
-
-## Kaggle/Notebook Note
-
-This script uses `parse_known_args()` so notebook kernels (e.g., Kaggle/Jupyter) can pass extra flags (like `-f <kernel.json>`) without errors. If you see a `FileNotFoundError`, update `--data_dir` to your dataset root.
-
-If Kaggle stops mid-training when you set a high epoch count, lower `--epochs` (the default is 20) or rely on EarlyStopping to finish early and avoid runtime limits.
 
 ## Outputs
 
